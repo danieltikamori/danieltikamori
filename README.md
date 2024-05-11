@@ -5,20 +5,26 @@
 <table width="100%">
 <tr><td valign="top" width="50%">
 
-I'm a software engineer that happens to be also a cloud solutions architect. I believe that technology can improve our lives and drive the world to more conscious and meaningful purposes.
+I use technology to improve our lives and drive the world to more conscious and meaningful purposes.
 
-My hobbies are: photography, video production, system tinkering and live new experiences.
+As a polymath, I'm very interested in technology, marketing, creative stuff, business and investments.
 
-<div align="left"> 
+##### My hobbies: creative stuff like photography, video production, design, system tinkering and live new experiences.
+
+##
+
+<div align="center"> 
   <img src="https://media1.tenor.com/m/bQ8yIq1UfvUAAAAd/efficient-efficiency.gif" alt="Trust me, I'm a Solutions Architect. ">
 </div>
 
 </td></tr>
 </table>
-</p>
+</p>  
 
 ## I'm currently:
-- 🌱 learning: Project management, Java, Python, Cloud Computing
+- 🌱 learning: Project management, system design, deepening cloud computing skills.
+
+##
 
 <p align="left">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
