@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile!
-## My name is Daniel Tikamori and I'm a Solutions Architect!
+# 👋 Hello! Welcome to my GitHub profile!
+## My name is Daniel Tikamori and I'm a Solutions Architect working hard to help people get the most!
 
   <p align="right">
 <table width="100%">
@@ -7,9 +7,9 @@
 
 I use technology to improve our lives and drive the world to more conscious and meaningful purposes.
 
-As a polymath, I'm very interested in technology, marketing, creative stuff, business and investments.
+As a polymath, I'm interested in technology, marketing, creative stuff, business, and investments.
 
-##### My hobbies: creative stuff like photography, video production, design, system tinkering and live new experiences.
+##### My hobbies are creative things like photography, video production, design, system tinkering, and living new experiences.
 
 ##
 
