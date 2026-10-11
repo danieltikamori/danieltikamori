@@ -1,66 +1,20 @@
-# 👋 Hello! Welcome to my GitHub profile!
-## My name is Daniel Tikamori and I'm a Solutions Architect working hard to help people get the most!
+# Daniel Tikamori
 
-  <p align="right">
-<table width="100%">
-<tr><td valign="top" width="50%">
+Technical product marketer for B2B and industrial software. I build what I market.
 
-I use technology to improve our lives and drive the world to more conscious and meaningful purposes.
+- **The floor.** Manufacturing since 2004, most of it on Japanese production lines.
+- **The money.** Market research, then risk and compliance, at a brokerage in Brazil.
+- **The code.** Two software products I built and took to market myself.
 
-As a polymath, I'm interested in technology, marketing, creative stuff, business, and investments.
+Teardowns and writing: **[daniel.tikamori.com](https://daniel.tikamori.com)** ·
+[LinkedIn](https://www.linkedin.com/in/danieltikamori)
 
-##### My hobbies are creative things like photography, video production, design, system tinkering, and living new experiences.
+## What is in this account
 
-##
+Most public repositories here are study projects from 2023 and 2024 (Java, Spring, Terraform, AWS,
+Kubernetes) and forks I keep for reference. My product work lives in private repositories; the
+write-ups are on the site.
 
-<div align="center"> 
-  <img src="https://media1.tenor.com/m/bQ8yIq1UfvUAAAAd/efficient-efficiency.gif" alt="Trust me, I'm a Solutions Architect. ">
-</div>
+Portuguese (native) · English (professional) · Japanese (daily, at work)
 
-</td></tr>
-</table>
-</p>  
-
-## I'm currently:
-- 🌱 learning: Project management, system design, deepening cloud computing skills.
-
-##
-
-<p align="left">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://twitter.com/danieltikamori" ><img src="https://img.shields.io/twitter/follow/danieltikamori.svg?style=social" /></a>
-<img src="https://views.whatilearened.today/views/github/danieltikamori/views.svg"> <a href="https://github.com/danieltikamori/"><img src="https://img.shields.io/github/followers/danieltikamori?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-</p>
-
-<div>
-<a href="https://github.com/danieltikamori">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltikamori&layout=compact&langs_count=7&theme=merko"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danieltikamori&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-</div>
-
-
-## How to reach me:
-
-<div>
-<a href="https://www.youtube.com/@danieltikamori" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/danieltikamori" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:daniel@tikamori.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/danieltikamori" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-<!--
-**danieltikamori/danieltikamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To reach me, use the [contact form](https://daniel.tikamori.com/#contact).
